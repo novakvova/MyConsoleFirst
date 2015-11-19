@@ -9,7 +9,7 @@ int main()
 {
 	cout << "Console Hello!\n";
 	cout << "Hello Koloduch\n";
-	int p = 0;
+	int p = 0, z=25;
 	cout << "Enter p->_";
 	cin >> p;
 	cout << "You Enter = " << p << endl;
